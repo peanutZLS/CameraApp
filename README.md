@@ -1,2 +1,12 @@
 # CameraApp
-The CameraApp is a basic Android application designed to help beginners understand how to work with camera permissions. When the user clicks a button, the app requests the necessary camera permissions. If granted, the app opens the camera, allows the user to take a photo, and then displays the captured photo on the screen.
+
+This is a simple Android application that demonstrates how to request camera permissions and capture a photo using the device's camera.
+
+## Features
+- Request camera permissions
+- Capture and display a photo
+
+## Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/CameraApp.git
