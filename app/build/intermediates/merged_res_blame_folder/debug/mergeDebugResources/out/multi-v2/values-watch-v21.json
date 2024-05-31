@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.costapp-mergeDebugResources-31:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/guojiayu/.gradle/caches/transforms-4/a0c14fe760971e113a54e63e0c75b8b0/transformed/appcompat-1.6.1/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
